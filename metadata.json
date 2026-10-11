@@ -1,0 +1,6 @@
+{
+  "name": "LiveVoice Care - Real-time PTT & Customer Voice Support",
+  "description": "Real-time two-way voice communication system with Push-to-Talk (PTT) announcement for customer care, automatic customer microphone streaming, IP & MAC device identification, GPS geolocation tracking, and multi-role admin management.",
+  "requestFramePermissions": ["microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
